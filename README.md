@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mridul</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-with-code-cat-book-coffee-vector-clip-art-illustration_138676-92.jpg?w=2000">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul-singh-01&label=Profile%20views&color=0e75b6&style=flat" alt="mridul-singh-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul-singh-01" alt="mridul-singh-01" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Docker**
 
