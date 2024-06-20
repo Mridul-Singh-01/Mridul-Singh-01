@@ -1,4 +1,4 @@
-### Hii there 🖐️
+### Hii there 🖐️  [![](https://visitcount.itsvg.in/api?id=Mridul-Singh-01&icon=5&color=1)](https://visitcount.itsvg.in)<br>
 I'm Mridul Singh, a passionate developer with a keen interest in Full Stack Web development, Data Structures and Algorithms and DevOps tools.
 <br>Welcome to my GitHub profile!
 
@@ -9,7 +9,7 @@ I'm Mridul Singh, a passionate developer with a keen interest in Full Stack Web 
 - 📩 How to reach me **mridulbbk@gmail.com**
 - 😊 Pronouns: He/Him
 
-[![](https://visitcount.itsvg.in/api?id=Mridul-Singh-01&icon=5&color=1)](https://visitcount.itsvg.in)<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mridul-singh-83754722b) 
