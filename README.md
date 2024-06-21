@@ -1,4 +1,4 @@
-# Hii there 🖐️ ,I'm Mridul Singh
+# Hii there 🖐️ ,I'm Mridul Singh align="center"
 A passionate developer with a keen interest in Full Stack Web development, Data Structures and Algorithms and DevOps tools. Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning advanced algorithms, full Stack development, and DevOps practices.
