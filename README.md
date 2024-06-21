@@ -1,7 +1,7 @@
 <div align="center">
 # Hii there 🖐️ ,I'm Mridul Singh
 A passionate developer with a keen interest in Full Stack Web development, Data Structures and Algorithms and DevOps tools. Welcome to my GitHub profile!
-<div>
+</div>
 ---
   
 - 🌱 I’m currently learning advanced algorithms, full Stack development, and DevOps practices.
