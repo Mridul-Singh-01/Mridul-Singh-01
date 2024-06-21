@@ -7,7 +7,8 @@ A passionate developer with a keen interest in Full Stack Web Development, Data 
 </div>
 
 ---
-  
+
+## 📝 Bio:
 - 🌱 I’m currently learning advanced algorithms, full Stack development, and DevOps practices.
 - 👨‍💻 I’m working on a variety of projects ranging from competitive programming to Web Dev.
 - 💡 I'm a DevOps enthusiast, constantly exploring automation, CI/CD pipelines, and cloud infrastructure.
